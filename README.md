@@ -34,9 +34,7 @@ A aplicação permite que o usuário busque por uma cidade e veja a previsão do
 
 ## 🤝 Colaboração
 
-Este projeto foi desenvolvido por `guilhermehenrsilva` em colaboração com:
-
-  - **[gabrielcaproni](https://www.google.com/search?q=https://github.com/gabrielcaproni)**
+Este projeto foi desenvolvido por `guilhermehenrsilva` & `gabrielcaproni` em colaboração.
 
 ## 🛠️ Como Executar o Projeto
 
